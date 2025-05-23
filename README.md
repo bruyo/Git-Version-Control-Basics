@@ -58,8 +58,107 @@ Git also supports powerful tools for reviewing project history, resolving confli
 'git push'
 
 ![alt text](./pictures/git3.JPG)
-
+Cd
 ![alt text](./pictures/git4.JPG)
+
+## GIT COMMANDS
+
+#### GIT INIT
+
+This git command is used to initialize a folder in a local directory.
+
+'git init'
+
+![alt text](./pictures/git8.JPG)
+
+### GIT ADD
+
+This git command is used to add and track files in git.
+
+'git add . (for all files in a folder) or git add <file> (for a specific file)'
+
+
+![alt text](./pictures/git9.JPG)
+
+### GIT COMMIT
+
+This git command is used to add files to the staging area from the working area or local repository.
+
+'git commit -m "message"'
+
+![alt text](./pictures/git10.JPG)
+
+
+### GIT PULL
+
+This git command helps to move files from your remote repository to your local or working directory.
+
+'git pull'
+
+![alt text](./pictures/git16.JPG)
+
+
+### GIT PUSH
+
+This git command is used to move files to the remote repository from the staging area.
+
+'git push'
+
+![alt text](./pictures/git17.JPG)
+
+
+### GIT BRANCH
+
+This git command is used to create a new branch and also switch branch.
+
+'git branch <name>'
+
+'git branch -m <name> <name>'
+
+
+![alt text](./pictures/git11.JPG)
+
+### GIT CHECKOUT
+
+This git command is used to switch to another branch.
+
+![alt text](./pictures/git12.JPG)
+
+
+### GIT SWITCH
+
+This git command is used to also switch to another branch.
+
+'git switch <name>'
+
+![alt text](./pictures/git14.JPG)
+
+
+### GIT MERGE
+
+This git command is used to merge two branches together.
+
+'git merge <name> <name>
+
+![alt text](./pictures/git13.JPG)
+
+
+### GIT STATUS
+
+This git command keep a record of changes.
+
+'git status'
+
+![alt text](./pictures/git9.JPG)
+
+
+### GIT LOG
+
+This git command gives the history of all activities and who was involved.
+
+'git log'
+
+![alt text](./pictures/git15.JPG)
 
 ### Conclusion
 Version control tools are essential for managing and tracking changes in code or documents over time. They allow multiple users to collaborate efficiently, maintain a history of edits, and revert to previous versions when needed.
