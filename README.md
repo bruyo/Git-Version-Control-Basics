@@ -37,5 +37,29 @@ Git also supports powerful tools for reviewing project history, resolving confli
 
 - Understanding .gitignore and commit best practices
 
+## Tasks
+
+### Creating a repository (Cloning a repository)
+
+'git clone https://github.com/bruyo/Git-Version-Control-Basics.git'
+
+![alt text](./pictures/git1.JPG)
+
+### Creating a file
+
+'touch index.html'
+
+![alt text](./pictures/git2.JPG)
+
+### Adding the file to the staging area
+
+'git add index.html'
+'git commit -m "adding file"'
+'git push'
+
+![alt text](./pictures/git3.JPG)
+
+![alt text](./pictures/git4.JPG)
+
 ### Conclusion
 Version control tools are essential for managing and tracking changes in code or documents over time. They allow multiple users to collaborate efficiently, maintain a history of edits, and revert to previous versions when needed.
